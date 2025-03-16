@@ -58,6 +58,6 @@ Correlation Matrix: Analyzed relationships between metadata variables.
 
 Brain Connectivity Visualization: Mapped connectivity matrices to understand structural patterns.
 
-![Alt Text](download (1).png)
+![Alt Text](download(1).png)
 
 ![Alt Text](download.png)
